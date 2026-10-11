@@ -1,0 +1,24 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+        "fileHash": "sha256-6ac1a63607b1ef8a5a15893b27993f87dec6e58b8dc958f7521ad7f2c67e82ae",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hasanbkaylan/CloudStream-HBK",
+        "fileSize": 16755,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "muratcesmecioglu"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 28,
+        "internalName": "DiziPal",
+        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "url": "https://raw.githubusercontent.com/hasanbkaylan/CloudStream-HBK/builds/DiziPal.cs3",
+        "name": "DiziPal"
+    }
+]
